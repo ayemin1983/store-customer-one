@@ -1,7 +1,7 @@
 import os, random
 os.system('cls')
 
-Name =(input("Customer Name:"))#Williams
+Name =(input("Customer Name:"))#Rey Williams
 Product =(input("Product:"))#Laptop
 Quantity = int(input("Quantity:"))#2
 Price= int(input("Price:"))#1000
