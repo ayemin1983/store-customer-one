@@ -28,12 +28,7 @@ else:
             print(f'{Name} purchased {Quantity} {Product} for ${Total}')
 
 
-Customer Name:Rey Williams
-Product:Laptop
-Quantity:2
-Price:1000
-Rey Williams purchased 2 Laptop for $2000
-Y/N:Y
+
           
 
 
