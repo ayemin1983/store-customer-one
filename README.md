@@ -17,7 +17,7 @@ else:
     if Continue.lower()=="Y":
         Name=(input("Name:"))#Shane Williams
         Product=(input("Product"))#Keyboard
-        Quantity=int(input("Price:"))#4
+        Quantity=int(input("Quantity:"))#4
         Price=int(input("Price"))#40
         if Quantity<1:
             print("Quantity must be more then 0")
